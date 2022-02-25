@@ -1,0 +1,1692 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The school of politicks, or, The humours of a coffee-house a poem.</title>
+            <author>Ward, Edward, 1667-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67519</idno>
+            <idno type="STC">Wing W753B</idno>
+            <idno type="STC">ESTC R27054</idno>
+            <idno type="EEBO-CITATION">09626688</idno>
+            <idno type="OCLC">ocm 09626688</idno>
+            <idno type="VID">43860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43860)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1345:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The school of politicks, or, The humours of a coffee-house a poem.</title>
+                  <author>Ward, Edward, 1667-1731.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition corrected and much enlarged by the author.</edition>
+               </editionStmt>
+               <extent>29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by R. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43860:1"/>
+            <pb facs="tcp:43860:1" rendition="simple:additions"/>
+            <p>THE <hi>School of Politicks:</hi> OR, THE HUMOURS OF A COFFEE-HOUSE.</p>
+            <p>A POEM.</p>
+            <q>Tantumne ab re tua otii eſt, aliena ut cures? <bibl>
+                  <hi>Terent.</hi>
+               </bibl>
+            </q>
+            <p>The Second Edition Corrected and much Enlar<g ref="char:EOLhyphen"/>ged by the Author.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>R. Baldwin,</hi> at the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:43860:2"/>
+            <pb n="1" facs="tcp:43860:2"/>
+            <head>THE <hi>School of Politicks:</hi> OR, THE HUMOURS OF A COFFEE-HOUSE.</head>
+            <head type="sub">ODES.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>'TWAS <hi>Claret</hi> that we drank, and 'twas as fine,</l>
+               <l>As ever yet deſerv'd the name of <hi>Wine;</hi>
+               </l>
+               <l>Each Man his <hi>Flask</hi> we thought a mod'rate Doſe,</l>
+               <l>When juſt as we were giving o'er,</l>
+               <l>Comes in our honeſt <hi>Landlord</hi> in the Cloſe,</l>
+               <l>Proteſting we ſhould drink his <hi>Bottle</hi> more:</l>
+               <l>Which done, and all our <hi>Reck'ning</hi> paid,</l>
+               <l>Each did a ſev'ral way repair;</l>
+               <l>Some went <hi>to walk,</hi> and ſome <hi>to bed:</hi>
+               </l>
+               <l>But I, who had an hour to ſpare,</l>
+               <l>Went to a neighb'ring <hi>Coffee-Houſe,</hi> and there</l>
+               <l>With ſober Liquor to refine my Head.</l>
+            </lg>
+            <lg n="2">
+               <pb n="2" facs="tcp:43860:3"/>
+               <head>II.</head>
+               <l>What e'er th' occaſion was I cannot tell,</l>
+               <l>Whether the <hi>Wine</hi> had diſcompos'd my <hi>Mind,</hi>
+               </l>
+               <l>Or ſome falſe <hi>Medium</hi> did my <hi>Reaſon</hi> blind,</l>
+               <l>But ſo it was, I took the <hi>Place</hi> for <hi>Hell;</hi>
+               </l>
+               <l>The <hi>Maſter</hi> of the Houſe with <hi>fiery Face,</hi>
+               </l>
+               <l>Did like inſulting <hi>Pluto</hi> ſeem,</l>
+               <l>Whilſt all his <hi>Guests</hi> he did condemn</l>
+               <l>To drink a <hi>Liquor</hi> of infernal Race,</l>
+               <l>Black, ſcalding, and of moſt offenſive ſmell:</l>
+               <l>Trembling and pale, I croſs'd my ſelf all o'er,</l>
+               <l>And mumbled <hi>Ave-Maries</hi> by the ſcore.</l>
+               <l>At length, by ſtrange inſenſible degrees,</l>
+               <l>My fears all vaniſh'd, and my Mind found eaſe,</l>
+               <l>My ſcatter'd Reaſon re-aſſum'd its place,</l>
+               <l>And I perceiv'd with <hi>whom,</hi> and <hi>where</hi> I was.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>The murmuring <hi>Buzz</hi> which through the Room was ſent,</l>
+               <l>Did <hi>Bee-hives</hi> noiſe exactly repreſent;</l>
+               <l>And like a <hi>Bee-hive</hi> too 'twas fill'd, and thick,</l>
+               <l>All taſting of the <hi>Honey Politick,</hi>
+               </l>
+               <l>Call'd <hi>News,</hi> which they as greedily ſuck'd in,</l>
+               <l>As Nurſes Milk young Babes were ever ſeen.</l>
+               <l>The various <hi>Tones</hi> and different noiſe of <hi>Tongues,</hi>
+               </l>
+               <l>From lofty ſounding <hi>Dutch</hi> and <hi>German</hi> Lungs,</l>
+               <l>Together with the ſoft melodious Notes,</l>
+               <l>Of <hi>Spaniards, Frenchmen,</hi> and <hi>Italian</hi> Throats,</l>
+               <l>Who met in this <hi>State-Conventicle,</hi>
+               </l>
+               <l>Compos'd a kind of <hi>Harmony,</hi>
+               </l>
+               <pb n="3" facs="tcp:43860:3"/>
+               <l>Which did in Concord diſagree;</l>
+               <l>Nay, even <hi>Babel</hi>'s fatal Overthrow,</l>
+               <l>More ſorts of <hi>Languages</hi> did never know,</l>
+               <l>Nor were they half ſo various, and ſo fickle.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>The place no manner of diſtinction knew,</l>
+               <l>'Twixt <hi>Chriſtian, Heathen, Turk,</hi> or <hi>Jew,</hi>
+               </l>
+               <l>The <hi>Fool</hi> and the <hi>Philoſpher</hi>
+               </l>
+               <l>Sate cloſe by one another here,</l>
+               <l>And Quality no more was underſtood</l>
+               <l>Than <hi>Mathematicks</hi> were before the Floud.</l>
+               <l>Here ſate a <hi>Knight,</hi> by him a <hi>rugged Sailer;</hi>
+               </l>
+               <l>Next him a Son of <hi>Mars,</hi>
+               </l>
+               <l>Adorn'd with honourable Scars;</l>
+               <l>By them a <hi>Courtier,</hi> and a <hi>Woman</hi>'s <hi>Taylor:</hi>
+               </l>
+               <l>A <hi>Barber</hi> and a <hi>Bariſter at Law,</hi>
+               </l>
+               <l>Who ne'er before each other ſaw,</l>
+               <l>Were hotly <hi>prating</hi> I aſſure ye</l>
+               <l>Of Kings <hi>de facto</hi> and <hi>de jure.</hi>
+               </l>
+               <l>A <hi>Tradeſman</hi> and a <hi>grave Divine,</hi>
+               </l>
+               <l>Sate talking of Affairs beyond the <hi>Line;</hi>
+               </l>
+               <l>Whilſt in a Corner of the Room</l>
+               <l>Sate a fat <hi>Quack,</hi> the fam'd <hi>Poetick Tom,</hi>
+               </l>
+               <l>Pleas'd to hear <hi>Advertiſements</hi> read,</l>
+               <l>Where 'mongſt loſt Dogs, and other fav'rite Breed,</l>
+               <l>His famous <hi>Pills</hi> were chronicled:</l>
+               <l>The half Box eighteen Pills for eighteen Pence,</l>
+               <l>Though 'tis too cheap in any Man's own Senſe.</l>
+               <l>
+                  <hi>Lawyers</hi> and <hi>Clients, Sharpers</hi> and their <hi>Cullies,</hi>
+               </l>
+               <l>
+                  <hi>Quakers, Pimps, Atheiſts, Mountebanks</hi> and <hi>Bullies,</hi>
+               </l>
+               <pb n="4" facs="tcp:43860:4"/>
+               <l>Clean or unclean, if here they call,</l>
+               <l>The place, like <hi>Noah</hi>'s Ark, receives 'em all.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Had <hi>Lilbourn</hi> been alive to ſee</l>
+               <l>This <hi>Hotch-potch</hi> of <hi>Society,</hi>
+               </l>
+               <l>Some other <hi>meaſures</hi> he had ta'en,</l>
+               <l>When he the Work of <hi>Levelling</hi> began;</l>
+               <l>For <hi>All</hi> here ſtand on equal ground.</l>
+               <l>As I have ſeen in <hi>Storms</hi> at <hi>Sea,</hi>
+               </l>
+               <l>For common ſafety all are willing found</l>
+               <l>To hawl a <hi>Cable,</hi> guide an <hi>Oar,</hi>
+               </l>
+               <l>To ſtem the <hi>Tide,</hi> and bring the <hi>Ship</hi> to Shoar;</l>
+               <l>So in this <hi>School</hi> of <hi>Polity,</hi>
+               </l>
+               <l>Each thinks <hi>himſelf</hi> as much concern'd as <hi>they</hi>
+               </l>
+               <l>Who ſit in <hi>Council Chamber</hi> ev'ry day;</l>
+               <l>And all their <hi>Maxims</hi> have a ſhare</l>
+               <l>Of the <hi>Profeſſions</hi> which their <hi>Maſters</hi> are.</l>
+               <l>The <hi>quick-eye'd Sectary</hi> pretends to ſee</l>
+               <l>Under <hi>Lawn Sleeves</hi> the growth of <hi>Popery.</hi>
+               </l>
+               <l>The <hi>Smith</hi> upon the Anvil of his Brain</l>
+               <l>Forms a new <hi>Commonwealth</hi> again.</l>
+               <l>The <hi>Carpenter</hi> in his projecting Pate</l>
+               <l>Makes Props t'uphold the <hi>tott'ring State:</hi>
+               </l>
+               <l>The <hi>Quack</hi> too, with his <hi>Cloſe-ſtool Face,</hi>
+               </l>
+               <l>Does with his ſenſeleſs Reaſons urge,</l>
+               <l>The <hi>Britiſh Iſlands</hi> want a <hi>Purge:</hi>
+               </l>
+               <l>And <hi>Ah!</hi> — Were he but once in Place,</l>
+               <l>He'd — but there ſtops, and thinks the Age not fit</l>
+               <l>To know the Wonders of his mighty Wit.</l>
+            </lg>
+            <lg n="6">
+               <pb n="5" facs="tcp:43860:4"/>
+               <head>VI.</head>
+               <l>But the <hi>chief Scene</hi> was yet to come,</l>
+               <l>Which was to hear the various Argument</l>
+               <l>Which fill'd all corners of the Room,</l>
+               <l>Concerning the Affairs of <hi>Chriſtendom.</hi>
+               </l>
+               <l>I being ſeated to content</l>
+               <l>Liſt'ned with moſt profound attention to</l>
+               <l>One of the loudeſt of the <hi>prating Crew,</hi>
+               </l>
+               <l>Who after ſpitting thrice began,</l>
+               <l>Stroaking his Beard,— Quoth he, <hi>Here ſits the Man</hi>
+               </l>
+               <l>
+                  <hi>Who</hi> Thirty <hi>ſeveral</hi> Compaigns <hi>has ſeen,</hi>
+               </l>
+               <l>
+                  <hi>At</hi> five <hi>and</hi> forty Sieges <hi>been,</hi>
+               </l>
+               <l>
+                  <hi>And in both</hi> foreign <hi>and</hi> domeſtick <hi>Wars</hi>
+               </l>
+               <l>
+                  <hi>Receiv'd as many</hi> Scars,</l>
+               <l>
+                  <hi>As I upon my Head have Hairs.</hi>
+               </l>
+               <l>
+                  <hi>You prate,</hi> continued he, <hi>to make you merry,</hi>
+               </l>
+               <l>
+                  <hi>Of</hi> Sligo, <hi>and of</hi> Belliſhannon,</l>
+               <l>
+                  <hi>Of</hi> Carickfergus <hi>and</hi> Dundalk,</l>
+               <l>
+                  <hi>And of the thund'ring</hi> Bombs <hi>and</hi> Cannon,</l>
+               <l>
+                  <hi>Were us'd as Siege of</hi> London-derry;</l>
+               <l>
+                  <hi>Mere</hi> ſtuff, <hi>and nothing elſe but</hi> Talk.</l>
+               <l>
+                  <hi>Now if the</hi> Wars <hi>you would delight in,</hi>
+               </l>
+               <l>
+                  <hi>And ſee the very</hi> Soul <hi>of</hi> Fighting,</l>
+               <l>
+                  <hi>Go but this Spring to</hi> Flanders,</l>
+               <l>Flanders <hi>the Scene of Action, where</hi>
+               </l>
+               <l>Death <hi>keeps his</hi> Revels <hi>all the Year:</hi>
+               </l>
+               <l>
+                  <hi>There are no</hi> Petticoat Commanders,</l>
+               <l>
+                  <hi>Things clad in</hi> red, <hi>which have no braver</hi> Souls</l>
+               <l>
+                  <hi>Than</hi> Parrots, Apes, <hi>or</hi> Owls;</l>
+               <pb n="6" facs="tcp:43860:5"/>
+               <l>
+                  <hi>But hardy Youths,— ſo us'd to lye ruff,</hi>
+               </l>
+               <l>
+                  <hi>That their own</hi> Skins <hi>become a nat'ral Buff:</hi>
+               </l>
+               <l>
+                  <hi>Theſe are the</hi> Lads,—<hi>and I was</hi> one,</l>
+               <l>
+                  <hi>Although I ſay't my ſelf,— have often gone,</hi>
+               </l>
+               <l>
+                  <hi>Through thickest Squadrons of the</hi> Horſe,</l>
+               <l>
+                  <hi>And with my ſingle force,</hi>
+               </l>
+               <l>
+                  <hi>Made a whole</hi> Troop <hi>retire in haſte:</hi>
+               </l>
+               <l>
+                  <hi>This good old</hi> Blade <hi>which by my Side I wear,</hi>
+               </l>
+               <l>
+                  <hi>Aſſisted by my</hi> Arm, <hi>I ſwear,</hi>
+               </l>
+               <l>
+                  <hi>Has kill'd a</hi> dozen Men <hi>before I broke my fast;</hi>
+               </l>
+               <l>
+                  <hi>Nor living is that</hi> daring He,</l>
+               <l>
+                  <hi>Who but provokes this truſty</hi> Sword,</l>
+               <l>
+                  <hi>But ſhall</hi>—</l>
+               <l>— At ſpeaking of which <hi>word,</hi>
+               </l>
+               <l>Two <hi>Serjeants</hi> came and laid</l>
+               <l>Their <hi>Paws</hi> upon this <hi>daring Blade;</hi>
+               </l>
+               <l>Upon an <hi>Action</hi> of poor <hi>Hosteſs</hi>
+               </l>
+               <l>(Living not far from where Blew-Poſt is,)</l>
+               <l>For fowling Linnen half a Year,</l>
+               <l>Then ſneaking off and never pay'r.</l>
+               <l>But ſo ſubmiſſive, and ſo tame,</l>
+               <l>Was this courageous <hi>Son of Fame!</hi>
+               </l>
+               <l>The Company with Laughter let him paſs</l>
+               <l>To <hi>Priſon,</hi> for a moſt <hi>vainglorious Aſs.</hi>
+               </l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Scarce was this <hi>Son of Thunder</hi> gone,</l>
+               <l>Who tir'd the Ears of every one,</l>
+               <l>Yet with his <hi>bluſt'ring Language</hi> warm,</l>
+               <l>But new Diſcourſe began,</l>
+               <pb n="7" facs="tcp:43860:5"/>
+               <l>Talk underſtood by every one</l>
+               <l>Concerning the late <hi>dreadful Storm.</hi>
+               </l>
+               <l>
+                  <hi>Lord! Neighbour, did you ever hear</hi>
+               </l>
+               <l>(Says one) <hi>ſo terrible a</hi> Wind?</l>
+               <l>
+                  <hi>I that have liv'd this threeſcore Years,</hi>
+               </l>
+               <l>
+                  <hi>The like could never find,</hi>
+               </l>
+               <l>
+                  <hi>How Sir,</hi> (replied his Friend,) —<hi>have you forgot</hi>
+               </l>
+               <l>
+                  <hi>That bluſt'ring Night that</hi> Noll th'Uſurper <hi>died?</hi>
+               </l>
+               <l>
+                  <hi>When all the</hi> Winds <hi>in order tried,</hi>
+               </l>
+               <l>
+                  <hi>Who ſhould blow hardeſt on the Spot,</hi>
+               </l>
+               <l>
+                  <hi>A</hi> Storm <hi>ſo dreadful that 'twas thought</hi>
+               </l>
+               <l>
+                  <hi>About by</hi> Witchcraft <hi>brought;</hi>
+               </l>
+               <l>
+                  <hi>When trembling</hi> Atheiſts <hi>went to Prayer,</hi>
+               </l>
+               <l>
+                  <hi>Thinking the</hi> Day <hi>of</hi> Judgment <hi>near;</hi>
+               </l>
+               <l>
+                  <hi>And</hi> Fear <hi>appear'd in ev'ry</hi> Face.</l>
+               <l>
+                  <hi>Piſh,</hi> (cries his Friend,) —<hi>what that time was,</hi>
+               </l>
+               <l>
+                  <hi>I well remember, but, alas!</hi>
+               </l>
+               <l>
+                  <hi>To the late</hi> Wind <hi>it was no more,</hi>
+               </l>
+               <l>
+                  <hi>Than</hi> farting <hi>of a</hi> Cloud, <hi>or</hi> ſhrieking <hi>of a</hi> Door.</l>
+               <l>
+                  <hi>I'll tell you: There was lately ſent</hi>
+               </l>
+               <l>
+                  <hi>To me a Letter out of</hi> Kent,</l>
+               <l>
+                  <hi>Which ſays, it blew the</hi> Devil<hi>'s</hi> Drop</l>
+               <l>(<hi>A</hi> Rock <hi>by</hi> Dover <hi>ſeen</hi>)</l>
+               <l>
+                  <hi>Along the</hi> Shoar, <hi>as if't had been</hi>
+               </l>
+               <l>
+                  <hi>A School-boy's</hi> Gig <hi>or</hi> Top,</l>
+               <l>
+                  <hi>And plac'd it on this ſide the</hi> Hope,</l>
+               <l>
+                  <hi>And that was ſtrange.</hi>—</l>
+               <l>— <hi>But not by half,</hi>
+               </l>
+               <l>
+                  <hi>So wonderful</hi> (another ſpeaks,) <hi>as that</hi>
+               </l>
+               <l>
+                  <hi>I now am going to relate:</hi>
+               </l>
+               <l>
+                  <hi>Grazing it to an</hi> Eſſex <hi>Calf,</hi>
+               </l>
+               <pb n="8" facs="tcp:43860:6"/>
+               <l>
+                  <hi>Near to the</hi> Shoar, <hi>and blew him croſs the</hi> River.</l>
+               <l>
+                  <hi>Quite into</hi> Kent, <hi>where the</hi> poor thing <hi>remains</hi>
+               </l>
+               <l>
+                  <hi>As</hi> ſound <hi>and</hi> well <hi>as ever.</hi>
+               </l>
+               <l>This caus'd the <hi>Company</hi> to laugh out-right:</l>
+               <l>Which <hi>Mirth</hi> t'increaſe a jolly <hi>Sailer</hi> ſwore,</l>
+               <l>
+                  <hi>That on that ne'er to be forgotten Night,</hi>
+               </l>
+               <l>
+                  <hi>(Though to preſerve-her they had ſpar'd no pains,)</hi>
+               </l>
+               <l>
+                  <hi>Their</hi> goodly Ship <hi>was stranded near the Shoar,</hi>
+               </l>
+               <l>
+                  <hi>Laden with</hi> Claret <hi>from</hi> Bourdeaux <hi>ſhe came;</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Veſſel <hi>daſh'd to pieces, every</hi> Man</l>
+               <l>
+                  <hi>Nimbly to ſave himſelf began;</hi>
+               </l>
+               <l>
+                  <hi>I, for my part, ſeeing a</hi> Hogſhead <hi>float,</hi>
+               </l>
+               <l>
+                  <hi>Quickly aſtride upon it got,</hi>
+               </l>
+               <l>
+                  <hi>And, Faith, I think I was not much to blame,</hi>
+               </l>
+               <l>
+                  <hi>My</hi> drunken Friend <hi>and</hi> I <hi>got ſafe to Land,</hi>
+               </l>
+               <l>
+                  <hi>Where in requital of the good</hi>
+               </l>
+               <l>
+                  <hi>He did me, caus'd his</hi> deareſt Bloud</l>
+               <l>
+                  <hi>To</hi> iſſue <hi>from him upon my</hi> command,</l>
+               <l>
+                  <hi>My</hi> Friends <hi>and</hi> I <hi>were merry at his</hi> death,</l>
+               <l>
+                  <hi>And I ſhall ne'er forget</hi> him <hi>while I've</hi> breath.</l>
+               <l>Finding this <hi>dull Romantick</hi> ſtrain,</l>
+               <l>Amongſt that <hi>Company</hi> to reign,</l>
+               <l>Whoſe <hi>Talk</hi> was nothing elſe but <hi>Fable,</hi>
+               </l>
+               <l>I, leaving <hi>them,</hi> went to another Table.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>At which by accident (no doubt) were got</l>
+               <l>Demurely <hi>grave</hi> of <hi>Citizens</hi> a knot,</l>
+               <l>With ſhaking <hi>Heads</hi> and lift up <hi>Eyes,</hi>
+               </l>
+               <l>Diſcourſing upon <hi>Prodigies.</hi>
+               </l>
+               <pb n="9" facs="tcp:43860:6"/>
+               <l>
+                  <hi>Ah Friends! the</hi> Times (ſays one) <hi>are very</hi> ſad,</l>
+               <l>
+                  <hi>Although the</hi> Wicked <hi>ſtill remain as</hi> bad</l>
+               <l>
+                  <hi>As if all things were ſetled—T'other Night,</hi>
+               </l>
+               <l>
+                  <hi>As very late by</hi> Weſtminſter <hi>I came,</hi>
+               </l>
+               <l>
+                  <hi>Methought the</hi> Element <hi>was all on flame,</hi>
+               </l>
+               <l>
+                  <hi>And one of th'</hi> Heads <hi>upon the</hi> Iron Spire</l>
+               <l>
+                  <hi>Over the</hi> Hall, <hi>diſtinctly cried out</hi> Fire:</l>
+               <l>
+                  <hi>Nay, I a while ago was told,</hi>
+               </l>
+               <l>
+                  <hi>That, at</hi> Noon, day, <hi>the</hi> Horſe <hi>which ſtands</hi>
+               </l>
+               <l>
+                  <hi>In the</hi> Stocks-Market <hi>neigh'd aloud</hi>
+               </l>
+               <l>
+                  <hi>For</hi> Provender, <hi>while the affrighted Croud</hi>
+               </l>
+               <l>
+                  <hi>Stood ſhivering both with Fear and Cold:</hi>
+               </l>
+               <l>
+                  <hi>Now when</hi> Vice <hi>grows ſo</hi> ſtrong, <hi>and</hi> Faith <hi>ſo</hi> weak,</l>
+               <l>
+                  <hi>No wonder 'tis the very</hi> Stones <hi>ſhould</hi> ſpeak:</l>
+               <l>
+                  <hi>What theſe</hi> unlucky Signs <hi>portend</hi>
+               </l>
+               <l>
+                  <hi>I muſt confeſs I cannot comprehend;</hi>
+               </l>
+               <l>
+                  <hi>Let God</hi> (and then he'd'off his Hat)</l>
+               <l>
+                  <hi>In his good time diſcover that.</hi>
+               </l>
+               <l>
+                  <hi>Why, Neighbour,</hi> (ſays his Elbow-Friend,)</l>
+               <l>
+                  <hi>For certain 'tis, you cannot be</hi>
+               </l>
+               <l>
+                  <hi>So blind as not to ſee,</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Head <hi>which cried out</hi> Fire <hi>denotes</hi>
+               </l>
+               <l>
+                  <hi>A diſagreement in the</hi> Senate<hi>'s Votes;</hi>
+               </l>
+               <l>
+                  <hi>But</hi> Heav'n <hi>avert the</hi> Prodigy;</l>
+               <l>
+                  <hi>And th'</hi> Horſes Neighing <hi>ſpeaks as plain</hi>
+               </l>
+               <l>
+                  <hi>This</hi> Summer<hi>'s ſcarcity of</hi> Grain:</l>
+               <l>
+                  <hi>But I'm no</hi> Prophet, <hi>if I were,</hi>
+               </l>
+               <l>
+                  <hi>Events more wonderful I'd ſhew,</hi>
+               </l>
+               <l>
+                  <hi>Than ever</hi> Gadbury <hi>or</hi> Lilly <hi>knew,</hi>
+               </l>
+               <l>Events <hi>ſhould make the</hi> Nation <hi>stare;</hi>
+               </l>
+               <pb n="10" facs="tcp:43860:7"/>
+               <l>
+                  <hi>What pity 'tis that</hi> Prophecy <hi>is ceas'd!</hi>
+               </l>
+               <l>What pity 'tis, (thought I) thou are not plac'd</l>
+               <l>In <hi>Bedlam,</hi> where there cannot be</l>
+               <l>One half ſo <hi>Lunatick</hi> as thee:</l>
+               <l>
+                  <hi>Darkneſs, freſh Straw,</hi> and <hi>ſlender Diet,</hi>
+               </l>
+               <l>And <hi>ſhaving</hi> th' Hair from thy <hi>thick Skull,</hi>
+               </l>
+               <l>May make thy <hi>Brains</hi> and <hi>Tongue</hi> more <hi>quiet;</hi>
+               </l>
+               <l>But leaving this ſo very <hi>dull,</hi>
+               </l>
+               <l>Moſt <hi>whimſical,</hi> and <hi>ſenſeleſs</hi> Crew,</l>
+               <l>I foftly to another place withdrew.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Where <hi>ſix</hi> raw <hi>Country Fellows</hi> ſate</l>
+               <l>To hear an <hi>empty Wittal</hi> prate:</l>
+               <l>They to no Sermon in their Lives</l>
+               <l>Did ever ſuch attention lend,</l>
+               <l>And each one by his <hi>grinning</hi> ſtrives</l>
+               <l>Who moſt ſhall his <hi>Diſcourſe</hi> commend:</l>
+               <l>One whiſp'ring t'other in the Ear,</l>
+               <l>
+                  <hi>E'fack,</hi> Ned, <hi>did you ever hear</hi>
+               </l>
+               <l>(Says he) <hi>ſuch Stories from our</hi> ſilly Vicar,</l>
+               <l>
+                  <hi>O'er</hi> Whitſon Ale, <hi>or</hi> Chriſtmaſs Liquor?</l>
+               <l>
+                  <hi>No, Vaith,</hi> Tom, (anſwers he,) <hi>in all my born</hi>
+               </l>
+               <l>
+                  <hi>I ne'er heard ſike an ean, who does not ſcorn</hi>
+               </l>
+               <l>
+                  <hi>To tell us all the News; he ſhould, I'm zhure,</hi>
+               </l>
+               <l>
+                  <hi>By's head-piece, be a Countſeller.</hi>
+               </l>
+               <l>By this time our <hi>admired Wit</hi>
+               </l>
+               <l>Had drank his Diſh of <hi>Tea,</hi> and then</l>
+               <l>Begins with—</l>
+               <l>—<hi>Look ye, Gentlemen,</hi>
+               </l>
+               <pb n="11" facs="tcp:43860:7"/>
+               <l>
+                  <hi>'Tis plain, the Emperour intends</hi>
+               </l>
+               <l>
+                  <hi>To make a</hi> ſtrict Alliance <hi>with his</hi> Friends,</l>
+               <l>
+                  <hi>To pull down the</hi> Unchriſtian <hi>Turk;</hi>
+               </l>
+               <l>
+                  <hi>E'gad you'll ſee ſome curious</hi> Summers Work,</l>
+               <l>
+                  <hi>And if things do but hit,</hi>
+               </l>
+               <l>
+                  <hi>(And I may live to ſee it,)</hi>
+               </l>
+               <l>
+                  <hi>That Haughty</hi> Tyrant <hi>tumble from his</hi> Throne,</l>
+               <l>
+                  <hi>And no his humble</hi> Marrow-bones,</l>
+               <l>
+                  <hi>Beg to b'admitted</hi> Groom <hi>of th' Stable,</hi>
+               </l>
+               <l>
+                  <hi>And eat</hi> Scraps <hi>from the Servants Table:</hi>
+               </l>
+               <l>
+                  <hi>When this is done, they will, I hope,</hi>
+               </l>
+               <l>
+                  <hi>Have at his</hi> Holineſs <hi>the</hi> Pope,</l>
+               <l>
+                  <hi>With all his Scarlet</hi> Cardinals,</l>
+               <l>
+                  <hi>Who wait upon St.</hi> Peter<hi>'s</hi> Chair;</l>
+               <l>
+                  <hi>A</hi> Chair <hi>has held this Sixteen hundred Year</hi>
+               </l>
+               <l>
+                  <hi>Without being mended, as I hear.</hi>
+               </l>
+               <l>
+                  <hi>The</hi> great Mogul <hi>next to their Fury falls,</hi>
+               </l>
+               <l>
+                  <hi>And when they've overcome the</hi> Cannibals</l>
+               <l>
+                  <hi>The Work is done, and we may live at peace,</hi>
+               </l>
+               <l>
+                  <hi>Enjoy our Friends, and always be at eaſe.</hi>
+               </l>
+               <l>Boy, <hi>bring the</hi> Gazette.— Sir, 'tis not come in.</l>
+               <l>
+                  <hi>Pox take you, fetch it, for it has been ſeen</hi>
+               </l>
+               <l>
+                  <hi>At</hi> Jonathan<hi>'s two hours ago</hi>—But, Sir,—</l>
+               <l>
+                  <hi>But, Puppy, What do</hi> I <hi>come hither for,</hi>
+               </l>
+               <l>
+                  <hi>To ſpend my time in this dull ſmoaky Room?</hi>
+               </l>
+               <l>Pray be not angry, Sir, the <hi>Gazette</hi>'s come.</l>
+               <l>
+                  <hi>Here,</hi> Lad, <hi>let's ſee't—So, ſo, here's tickling News,</hi>
+               </l>
+               <l>
+                  <hi>Loſt</hi> Dogs, <hi>loſt</hi> Horſes, Soldiers <hi>run away</hi>
+               </l>
+               <l>
+                  <hi>Without their</hi> Wits, <hi>and to avoid their</hi> Pay.</l>
+               <pb n="12" facs="tcp:43860:8"/>
+               <l>Books <hi>ſold at</hi> Tom<hi>'s by</hi> Auction—<hi>once, twice, thrice,</hi>
+               </l>
+               <l>
+                  <hi>The Hammer's down—he has you in a trice.</hi>
+               </l>
+               <l>
+                  <hi>But, Sir,</hi> (ſays one,) <hi>what kind of News is this?</hi>
+               </l>
+               <l>
+                  <hi>For let me dye if I know what it is.</hi>
+               </l>
+               <l>
+                  <hi>Oh, Sir,</hi> (replies the Spark) <hi>I always read</hi>
+               </l>
+               <l>Gazettes <hi>as Witches pray; for they, 'tis ſaid,</hi>
+               </l>
+               <l>
+                  <hi>Do backwards mumble out their</hi> Pater Noſter;</l>
+               <l>
+                  <hi>But now for</hi> News, <hi>i'th' twinkling of an Oyſter.</hi>
+               </l>
+            </lg>
+            <stage>Reads.</stage>
+            <q>
+               <p>
+                  <hi>Francfort, March</hi> 29. Several Boats arrive daily with Proviſions that are ordered to be laid up here for the uſe of the Imperial Forces, which will now very quickly be in motion. The late Flouds have broke the Bridge of Boats at <hi>Philipsburg.</hi>
+               </p>
+               <p>
+                  <hi>'Ditto, April.</hi> 2.—</p>
+            </q>
+            <lg>
+               <l>
+                  <hi>Hold, Sir,</hi> (ſays one) <hi>e'er farther you go on</hi>
+               </l>
+               <l>
+                  <hi>Pray tell us where abouts does ſtand that Town</hi>
+               </l>
+               <l>
+                  <hi>Call'd</hi> Ditto.—</l>
+               <l>—<hi>Why, Sir,</hi> (anſwers he,) <hi>it lies</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon the barb'rous Coast of</hi> Africa,</l>
+               <l>
+                  <hi>Snatch'd from the</hi> Moors <hi>by mere ſurprize;</hi>
+               </l>
+               <l>
+                  <hi>For on a very memorable day,</hi>
+               </l>
+               <l>
+                  <hi>Or rather Night, as they were all employ'd</hi>
+               </l>
+               <l>
+                  <hi>In gazing on the then Eclipſed Moon,</hi>
+               </l>
+               <l>
+                  <hi>The Emp'rours Veſſels, cruiſing near the Shoar,</hi>
+               </l>
+               <l>
+                  <hi>Took the advantage of their buſied ſenſe,</hi>
+               </l>
+               <l>
+                  <hi>And gain'd the Town:—Not many were deſtroy'd;</hi>
+               </l>
+               <l>
+                  <hi>Fear bound the Hands of many, Wonder more;</hi>
+               </l>
+               <l>
+                  <hi>So with ſmall Bloudſhed they were Captives ſoon.</hi>
+               </l>
+               <l>
+                  <hi>The City's neatly built, and 'twas from thence</hi>
+               </l>
+               <pb n="13" facs="tcp:43860:8"/>
+               <l>
+                  <hi>The</hi> German Balls, <hi>ſo fam'd for cleaning Shoes,</hi>
+               </l>
+               <l>
+                  <hi>Firſt came.— I'd read ſome other News,</hi>
+               </l>
+               <l>
+                  <hi>But I'm oblig'd by ſuch an hour</hi>
+               </l>
+               <l>
+                  <hi>To be at— Gentlemen, I am your</hi>
+               </l>
+               <l>
+                  <hi>Most humble Servant.— Boy, here's for my</hi> Tea.</l>
+               <l>Then leaves the Room.-But, Lord! to hear the Praiſe</l>
+               <l>Theſe Blockheads did to his bold Nonſenſe raiſe,</l>
+               <l>Would almoſt make a witty Man forſwear</l>
+               <l>All Claim to Modeſty and Senſe,</l>
+               <l>Since the Accompliſhments which bear</l>
+               <l>A Man through Life, are Ignorance and Impudence.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>The Lechery of talking what</l>
+               <l>Is meerly underſtood by rote,</l>
+               <l>Had to another Table drawn</l>
+               <l>A <hi>Club</hi> of <hi>Whigs</hi> and <hi>Tory</hi> Spawn.</l>
+               <l>
+                  <hi>Things</hi> which like <hi>Puppets</hi> only ſqueak,</l>
+               <l>What they ſometimes hear <hi>great ones</hi> ſpeak:</l>
+               <l>
+                  <hi>One</hi> would affirm that no pretence</l>
+               <l>Could <hi>Salus Populi</hi> make Senſe;</l>
+               <l>T'other affirm'd the <hi>Royal Line,</hi>
+               </l>
+               <l>Could never be of <hi>Right Divine;</hi>
+               </l>
+               <l>And that it was an <hi>Impoſition,</hi>
+               </l>
+               <l>Almoſt as bad as th' <hi>Inquiſition,</hi>
+               </l>
+               <l>To tell the People that a <hi>King</hi>
+               </l>
+               <l>May by's own Power do any thing,</l>
+               <l>And that to <hi>God</hi> he is alone</l>
+               <l>Accountable for what he's done:</l>
+               <pb n="14" facs="tcp:43860:9"/>
+               <l>Think you (continued he) that <hi>Subjects</hi> come</l>
+               <l>
+                  <hi>Bridled</hi> and <hi>Sadled</hi> to the <hi>State,</hi>
+               </l>
+               <l>And <hi>Kings</hi> with <hi>Boots</hi> and <hi>Spurs</hi> come down</l>
+               <l>To ride them all at any rate?</l>
+               <l>And do you think, reply'd the other</l>
+               <l>That any <hi>Prince</hi> on Earth can be</l>
+               <l>Safe on his <hi>Throne</hi> while zealous Brother</l>
+               <l>Whoſe quick Eye-ſight pretends to ſee</l>
+               <l>Some Blemiſhes in's Rule, ſhall think it fit</l>
+               <l>To inſtigate the Mobile</l>
+               <l>To force that Prince his Throne to quit,</l>
+               <l>And then cry out he—But 'tis late: Good Night</l>
+               <l>For ſhould we talk till day of Doom</l>
+               <l>In hopes each other to 'orecome</l>
+               <l>You'd think me ſtill i'th' wrong, as I you not i'th' right.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Loud Laughter heard, I went to know</l>
+               <l>The reaſon of that ſudden Mirth,</l>
+               <l>And what it was that gave it Birth;</l>
+               <l>Which was a Sot would needs pretend to ſhow</l>
+               <l>With Ale-drops ſpilt upon the Bench,</l>
+               <l>A New Invention to intrench;</l>
+               <l>Make a Quart-pot to repreſent a Town,</l>
+               <l>And then with Cannon of Tobacco-pipe,</l>
+               <l>Which ſhews he was invention-ripe,</l>
+               <l>The Pewter Cittadell beat down.</l>
+               <l>Then two large Streams together joyn</l>
+               <l>To repreſent the River <hi>Boyne;</hi>
+               </l>
+               <l>With broken Pipes then repreſent</l>
+               <l>How over it our Army went.</l>
+               <pb n="15" facs="tcp:43860:9"/>
+               <l>Then make both Armies to ingage</l>
+               <l>While Pipes ſtill falling from the Table</l>
+               <l>Did ſhew the Flight of beaten Rabble:</l>
+               <l>And all this done with ſeeming rage,</l>
+               <l>So ſerious in his trifling was the Fool;</l>
+               <l>Pity to <hi>France</hi> he is not ſent,</l>
+               <l>Where he Preferment cannot want,</l>
+               <l>Or elſe be whipt and ſent again to School.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>In <hi>cloſe Cabal</hi> were in a Corner met;</l>
+               <l>A Knot of Men, whoſe Faces wore</l>
+               <l>The <hi>Livery</hi> of <hi>Diſcontent,</hi>
+               </l>
+               <l>
+                  <hi>Sighs</hi> from their <hi>Breaſts</hi> inceſſantly were ſent,</l>
+               <l>One by their <hi>Looks</hi> might ſee their <hi>Hearts</hi> did fret,</l>
+               <l>Like murmur'ing <hi>Iſraelites</hi> of yore,</l>
+               <l>They <hi>frown'd,</hi> they <hi>ſtamp'd,</hi> they <hi>bit</hi> their <hi>Thumbs,</hi>
+               </l>
+               <l>They <hi>wink'd,</hi> they <hi>nodded,</hi> nay, would ſometimes <hi>ſmil</hi>
+               </l>
+               <l>When ſomething did their airy hopes beguile,</l>
+               <l>Yet not a <hi>Word</hi> between their <hi>Lips</hi> there comes.</l>
+               <l>What this <hi>dumb Scene</hi> did repreſent,</l>
+               <l>Or what by <hi>Signs</hi> and <hi>Nods</hi> was meant,</l>
+               <l>Conjecture only gives us leave to gueſs:</l>
+               <l>They were no <hi>Friends</hi> to th' <hi>Government,</hi>
+               </l>
+               <l>But there they met their <hi>Thoughts</hi> to eaſe,</l>
+               <l>Which <hi>Thoughts</hi> by <hi>Words</hi> if they ſhould dare t'expreſs,</l>
+               <l>Their <hi>Necks,</hi> or Purſes at the leaſt,</l>
+               <l>Might pay for th' <hi>Tongue</hi>'s untimely <hi>Jest.</hi>
+               </l>
+               <l>Self Preſervation's firſt of Nature's Laws:</l>
+               <l>To be <hi>Well-wiſhers</hi> they're content,</l>
+               <l>But care not to be <hi>Martyrs</hi> for the <hi>Cauſe.</hi>
+               </l>
+            </lg>
+            <lg n="13">
+               <pb n="16" facs="tcp:43860:10"/>
+               <head>XIII.</head>
+               <l>From this moſt <hi>unintelligible Crew</hi>
+               </l>
+               <l>I went, another <hi>Scene</hi> to view,</l>
+               <l>If the forementioned were <hi>reſerv'd</hi> and <hi>cloſe,</hi>
+               </l>
+               <l>Theſe were more <hi>open,</hi> and more <hi>free,</hi>
+               </l>
+               <l>For <hi>Wine</hi> no ſecret ever knows,</l>
+               <l>And that theſe <hi>Sparks</hi> had drank t'a large degree.</l>
+               <l>
+                  <hi>You</hi> Sirrah <hi>Boy,</hi> (ſays one,) <hi>go fetch m'a</hi> Whore,</l>
+               <l>
+                  <hi>A lusty ſtrapping</hi> Bona Roba,</l>
+               <l>
+                  <hi>E'gad, I ſhall ſo</hi> jerk <hi>her</hi> Toby,</l>
+               <l>
+                  <hi>I'd make her—But I'll ſay no more</hi>
+               </l>
+               <l>
+                  <hi>At preſent.—Pox this</hi> Coffee <hi>ſcalds my</hi> Throat,</l>
+               <l>(Another cries,) <hi>'tis in all Senſe too hot;</hi>
+               </l>
+               <l>
+                  <hi>Prithee go fetch a Pair of</hi> Bellows <hi>hither,</hi>
+               </l>
+               <l>
+                  <hi>And make my</hi> Diſh <hi>know cooler weather:</hi>
+               </l>
+               <l>
+                  <hi>That ever Man ſhould be ſo great an</hi> Aſs,</l>
+               <l>
+                  <hi>To ſuffer</hi> Wine <hi>(that plaguy Thief) to paſs</hi>
+               </l>
+               <l>
+                  <hi>Between his</hi> Lips, <hi>that ſlily did convey</hi>
+               </l>
+               <l>
+                  <hi>His</hi> Senſe, <hi>his</hi> Reaſon, <hi>and his</hi> Brains <hi>away:</hi>
+               </l>
+               <l>
+                  <hi>How happy thoſe dull</hi> Nations <hi>are,</hi>
+               </l>
+               <l>
+                  <hi>That know no other</hi> Liquor <hi>but</hi> Small-Beer!</l>
+               <l>
+                  <hi>You,</hi> Harry, (then there bawls a third,)</l>
+               <l>
+                  <hi>If of</hi> Sobriety <hi>you ſpeak one word,</hi>
+               </l>
+               <l>
+                  <hi>By</hi> Jupiter, <hi>and all the</hi> Heathen Gods</l>
+               <l>
+                  <hi>Your</hi> Sword <hi>and mine ſhall be at mortal odds;</hi>
+               </l>
+               <l>
+                  <hi>I for my part, without Reflections,</hi>
+               </l>
+               <l>
+                  <hi>Againſt</hi> Small-Beer <hi>have forty</hi> Actions;</l>
+               <l>
+                  <hi>They're to be tried next</hi> Term, <hi>and if I cast it,</hi>
+               </l>
+               <l>
+                  <hi>I'll make't</hi> High Treaſon <hi>for my Friends to taſt it,</hi>
+               </l>
+               <pb n="17" facs="tcp:43860:10"/>
+               <l>
+                  <hi>Boy, bring m'a Glaſs of</hi> Uſquebaugh,</l>
+               <l>
+                  <hi>By People nicknam'd</hi> Lill' bullero,</l>
+               <l>
+                  <hi>'Tis good againſt the</hi> Gripes, <hi>they ſay,</hi>
+               </l>
+               <l>
+                  <hi>My Humour's this</hi>—Dum ſpiro ſpero:</l>
+               <l>
+                  <hi>Come here's a</hi> Health <hi>to th' King of</hi> Poland;</l>
+               <l>
+                  <hi>Well, here ſit I, who though I've no Land,</hi>
+               </l>
+               <l>
+                  <hi>Suppoſe my ſelf as great as he,</hi>
+               </l>
+               <l>
+                  <hi>Nay, as th' great</hi> Cham <hi>of</hi> Tartary;</l>
+               <l>
+                  <hi>My</hi> Crown<hi>'s a fuddling</hi> Cap, <hi>a</hi> Pipe <hi>my</hi> Sceptre;</l>
+               <l>
+                  <hi>My</hi> Bottle <hi>repreſents my</hi> Globe,</l>
+               <l>
+                  <hi>And any</hi> Cloaths <hi>ſerve for a Regal</hi> Robe;</l>
+               <l>
+                  <hi>My</hi> Queen <hi>my</hi> Miſtreſs, <hi>when I kept her.</hi>
+               </l>
+               <l>Drawers <hi>(or elſe 'tis very hard)</hi>
+               </l>
+               <l>
+                  <hi>Will ſerve me for my</hi> Corps du Guard;</l>
+               <l>
+                  <hi>But when</hi> Incognito <hi>I reel,</hi>
+               </l>
+               <l>
+                  <hi>A</hi> Link-boy <hi>ſerves the turn as well;</hi>
+               </l>
+               <l>
+                  <hi>And, Gentlemen, to ſhew I'm yours,</hi>
+               </l>
+               <l>
+                  <hi>Know you're my</hi> Privy Counſellours.</l>
+               <l>
+                  <hi>Well, we adviſe thee to go</hi> home,</l>
+               <l>(Says one,) <hi>and try by</hi> Sleep <hi>to overcome</hi>
+               </l>
+               <l>
+                  <hi>This Humour.</hi>—</l>
+               <l>—<hi>Well, for once it ſhall be ſaid,</hi>
+               </l>
+               <l>(Says he,) <hi>That Counſel I obey'd;</hi>
+               </l>
+               <l>
+                  <hi>Here,</hi> Boy, <hi>your Money,—Gentlemen let's go,</hi>
+               </l>
+               <l>
+                  <hi>E'gad methinks I tread on</hi> Wool, <hi>or</hi> Snow,</l>
+               <l>
+                  <hi>My head's ſo light,—well, when I come again</hi>
+               </l>
+               <l>
+                  <hi>I'll make new Orders in my drinking</hi> Reign.</l>
+            </lg>
+            <lg n="14">
+               <pb n="18" facs="tcp:43860:11"/>
+               <head>XIV.</head>
+               <l>This <hi>merry-Farce</hi> diverted all the Room:</l>
+               <l>Theſe you may know had no deſign</l>
+               <l>The <hi>Quiet</hi> of the <hi>State</hi> to undermine;</l>
+               <l>He thinks no <hi>Treaſon</hi> that's top-full of <hi>Wine:</hi>
+               </l>
+               <l>Men that ſit <hi>brooding</hi> o'er their <hi>Fears</hi> at home,</l>
+               <l>Or elſe abroad in private Corners meet,</l>
+               <l>And there with <hi>ſecret Whiſpers</hi> ſit,</l>
+               <l>Are thoſe diſturb the <hi>Peace</hi> of <hi>Chriſtendom:</hi>
+               </l>
+               <l>The <hi>Juice o'th' Grape</hi> may nurſe an ill deſign,</l>
+               <l>But certain 't never was begot by <hi>VVine.</hi>
+               </l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>Had any this new Figure ſeen,</l>
+               <l>Him Madman muſt have thought him been,</l>
+               <l>Who ſtroking up Muſtachio's ſwore,</l>
+               <l>The King of <hi>France</hi> his Maſter was,</l>
+               <l>The greateſt Prince the Earth e're bore.</l>
+               <l>What glorious Conqueſts has he won?</l>
+               <l>What mighty Actions left undone,</l>
+               <l>To crown his Fame, and eterniſe his Race?</l>
+               <l>Rides he not Maſter of the Britiſh Seas?</l>
+               <l>Have not— Pray Sir, ſays one, take up a little,</l>
+               <l>Your Arguments ſo very brittle,</l>
+               <l>Indeed of Nonſenſe 'tis a finiſht Piece.</l>
+               <l>What glorious Conqueſts has he won?</l>
+               <l>Yes, by Piſtoles he much has done:</l>
+               <l>Did he at th' Head of Armies e're appear?</l>
+               <pb n="19" facs="tcp:43860:11"/>
+               <l>No, while they dealt in Blood and Wounds,</l>
+               <l>He lulls his Senſes and his Soul confounds,</l>
+               <l>In the fair Lap of Madam <hi>Maintenon.</hi>
+               </l>
+               <l>His mighty Actions what are they,</l>
+               <l>But burning Towns and laying waſt</l>
+               <l>Whole Provinces? and what I pray</l>
+               <l>Has his invincible <hi>Armado</hi> done</l>
+               <l>Upon our Coaſt, but burnt a little Town?</l>
+               <l>Which Action in your Gazette not long paſt,</l>
+               <l>Is magnified as much or more,</l>
+               <l>As <hi>Portſmouth</hi> Platform Caſtle were in's Power:</l>
+               <l>For ſhame leave off theſe State Romantick Lies,</l>
+               <l>And ſeem at leaſt, if you will ne'er be wiſe.</l>
+            </lg>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>Th' Athenian Itch of hearing News,</l>
+               <l>Which does our Faith ſo oft abuſe,</l>
+               <l>Made me inquiſitive to know,</l>
+               <l>How matters did in <hi>Piedmont</hi> go:</l>
+               <l>
+                  <hi>Piedmont</hi> the Place where not long ſince,</l>
+               <l>By order from th' moſt Chriſtian Prince,</l>
+               <l>Whole Seas of Blood were ſpilt; but now</l>
+               <l>By a ſtrange turn of Providence,</l>
+               <l>Become a ſhade to perſecuted Innocence;</l>
+               <l>But what we moſt deſire to know,</l>
+               <l>Does often cheat us with a ſhow.—</l>
+               <l>The Opticks with which foreign News we view,</l>
+               <l>Are ſometimes falſe and ſometimes true.</l>
+               <pb n="20" facs="tcp:43860:12"/>
+               <l>One while the Duke of <hi>Savoy</hi> has the better,</l>
+               <l>Then <hi>Cattinat</hi> prevails with his Dragoons,</l>
+               <l>Then all's refuted in another Letter;</l>
+               <l>The Circling year has not ſo many Moons,</l>
+               <l>As from beyond the Seas to us they ſend</l>
+               <l>Their weekly Lies,—</l>
+               <l>We hope the beſt, but muſt our Faith ſuſpend.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>Hearing loud <hi>Talk</hi> and warm <hi>Diſpute,</hi>
+               </l>
+               <l>I ſate me down to liſten to't:</l>
+               <l>A <hi>Cluſter</hi> were ingag'd, but chiefly <hi>Two</hi>
+               </l>
+               <l>Unſheath'd their <hi>Arguments,</hi> and drew</l>
+               <l>In <hi>Controverſie</hi>'s open Field;</l>
+               <l>He who did the <hi>defenſive Weapon</hi> yield</l>
+               <l>Was both to <hi>Wit</hi> and <hi>Senſe</hi> allied,</l>
+               <l>Nay, more, the <hi>Truth</hi> was on his ſide;</l>
+               <l>His <hi>Habit</hi> rich, but modeſt,— t'other,</l>
+               <l>
+                  <hi>Yea plainly,</hi> a <hi>diſſenting Brother,</hi>
+               </l>
+               <l>Who confidently would maintain,</l>
+               <l>The <hi>Papiſts</hi> firſt the <hi>War</hi> began,</l>
+               <l>In thoſe ſad Times when Jealouſies and Fears</l>
+               <l>Set Folks together by the Ears;</l>
+               <l>Nay, more, that they the Perſons were</l>
+               <l>Who brought the King into the <hi>Snare,</hi>
+               </l>
+               <l>And when they had him ſafely there,</l>
+               <l>Did, in the ſight of all <hi>Beholders,</hi>
+               </l>
+               <l>Take off his <hi>Head</hi> from off his <hi>Shoulders.</hi>
+               </l>
+               <l>(A <hi>Lye</hi> ſo very groſs like this,</l>
+               <l>What Hearer would not take amiſs?)</l>
+               <pb n="21" facs="tcp:43860:12"/>
+               <l>This caus'd the <hi>Gentleman</hi> to ſtorm,</l>
+               <l>Already with his <hi>Canting</hi> warm;</l>
+               <l>
+                  <hi>How, Sir,</hi> (ſays he,) <hi>can you with any Face</hi>
+               </l>
+               <l>
+                  <hi>Transfer the</hi> Guilt, <hi>moſt juſtly</hi> yours,</l>
+               <l>(<hi>I mean your</hi> Party's,) <hi>on the</hi> Papiſts? <hi>They,</hi>
+               </l>
+               <l>
+                  <hi>'Tis own'd, are bad enough; but can you, 'pray,</hi>
+               </l>
+               <l>
+                  <hi>Inform us who amongſt thoſe</hi> ruling Powers</l>
+               <l>
+                  <hi>That ſate at</hi> Weſtminſter <hi>that fatal Day,</hi>
+               </l>
+               <l>
+                  <hi>When</hi> Charles (<hi>the Good, the Pious, and the Just,</hi>
+               </l>
+               <l>
+                  <hi>Being from</hi> Kingdoms three <hi>moſt baſely thrust,</hi>)</l>
+               <l>
+                  <hi>Was tried, which of them all went to</hi> Maſs?</l>
+               <l>
+                  <hi>What</hi> Roman Catholick <hi>to ſign was known</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Warrant <hi>for his</hi> Execution?</l>
+               <l>
+                  <hi>Hold, Sir,</hi> (replies the other,) <hi>not too faſt:</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon the</hi> Stage <hi>they did not much appear,</hi>
+               </l>
+               <l>
+                  <hi>'Tis own'd, but they behind the</hi> Curtain <hi>stood, and what,</hi>
+               </l>
+               <l>
+                  <hi>Was ordered to be done was then effected.</hi>
+               </l>
+               <l>
+                  <hi>Good Counſel ought not, Sir, to be rejected,</hi>
+               </l>
+               <l>(Replies the other,) <hi>but 'tis plain and clear,</hi>
+               </l>
+               <l>
+                  <hi>The Guilt ſhould only at your Doors be caſt.—</hi>
+               </l>
+               <l>
+                  <hi>At mine, Sir? Pray excuſe me, I comply</hi>
+               </l>
+               <l>
+                  <hi>With evry Government.—That's upper moſt you mean.</hi>
+               </l>
+               <l>
+                  <hi>But, Sir, ſince you and I have been</hi>
+               </l>
+               <l>
+                  <hi>Diſputing thus, let me one</hi> Secret <hi>tell.</hi>—</l>
+               <l>
+                  <hi>A</hi> Secret, (ſaid I;) <hi>no, 'tis known too well,</hi>
+               </l>
+               <l>
+                  <hi>No</hi> Government <hi>your</hi> Party <hi>ever pleas'd;</hi>
+               </l>
+               <l>
+                  <hi>And if that</hi> Miracles <hi>had not been ceas'd,</hi>
+               </l>
+               <l>
+                  <hi>Should</hi> Heaven <hi>to humour you create</hi>
+               </l>
+               <l>
+                  <hi>A</hi> Kingdom, Commonwealth, <hi>or</hi> State,</l>
+               <pb n="22" facs="tcp:43860:13"/>
+               <l>
+                  <hi>Together with ſuch wiſe and wholeſome</hi> Laws,</l>
+               <l>
+                  <hi>Wherein ſharp</hi> Criticks <hi>could diſcern no flaws,</hi>
+               </l>
+               <l>
+                  <hi>Yet you'd be ſtill uneaſie.</hi>—</l>
+               <l>—<hi>Sir, too far</hi>
+               </l>
+               <l>
+                  <hi>You ſtretch your</hi> Argument; <hi>for are</hi>
+               </l>
+               <l>
+                  <hi>We not as</hi> quiet <hi>in the preſent</hi> Reign,</l>
+               <l>
+                  <hi>As thoſe who ſtiffly</hi> Monarchy <hi>maintain?</hi>
+               </l>
+               <l>
+                  <hi>Yes, doubtleſs, you</hi> (replies the other) <hi>can</hi>
+               </l>
+               <l>
+                  <hi>Conform to all the</hi> Modes <hi>which e'er</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Government <hi>are ready to prepare;</hi>
+               </l>
+               <l>
+                  <hi>But your</hi> Compliance <hi>is but</hi> Maſquerade,</l>
+               <l>
+                  <hi>Your</hi> Loyalty <hi>s forc'd, your</hi> Faith <hi>a Trade;</hi>
+               </l>
+               <l>
+                  <hi>T'enjoy your</hi> Liberty <hi>the</hi> State <hi>thinks ſit,</hi>
+               </l>
+               <l>
+                  <hi>Pray</hi> Heav'n <hi>you make good uſe of it;</hi>
+               </l>
+               <l>
+                  <hi>Forbear your Canting, VVhining, idle</hi> Style,</l>
+               <l>
+                  <hi>VVith no</hi> amuſements <hi>ſee you do beguile</hi>
+               </l>
+               <l>
+                  <hi>You</hi> Hearers; <hi>strive but to be true;</hi>
+               </l>
+               <l>
+                  <hi>Againſt the</hi> Laws <hi>do you forget to rail,</hi>
+               </l>
+               <l>
+                  <hi>And let but</hi> Senſe <hi>'gainſt</hi> Bigotry <hi>prevail;</hi>
+               </l>
+               <l>
+                  <hi>And then</hi>—</l>
+               <l>—<hi>Oh! Sir, we know what beſt to do,</hi>
+               </l>
+               <l>
+                  <hi>VVe come not here to be inform'd by you.</hi>—</l>
+               <l>
+                  <hi>But</hi> Counſel<hi>'s cheap, Sir, I demand no Fees.</hi>—</l>
+               <l>
+                  <hi>But you may counſel others if you pleaſe.</hi>—</l>
+               <l>
+                  <hi>Nay, if you're angry, Sir, I'm gone;</hi>
+               </l>
+               <l>
+                  <hi>This 'tis when good advice is thrown</hi>
+               </l>
+               <l>
+                  <hi>Away on Men; but e'er your Company I leave,</hi>
+               </l>
+               <l>
+                  <hi>Remember this, while vainly you believe</hi>
+               </l>
+               <l>
+                  <hi>Others to cheat, you don't your ſelves deceive.</hi>
+               </l>
+            </lg>
+            <lg n="18">
+               <pb n="23" facs="tcp:43860:13"/>
+               <head>XVIII.</head>
+               <l>
+                  <hi>Great News from Ireland,</hi> is heard at Door;</l>
+               <l>Which puts the <hi>Audience</hi> to a ſtand,</l>
+               <l>To fetch it in there is command,</l>
+               <l>And one attempts to read it o'er</l>
+               <l>But interrupted by a <hi>prating Fop.</hi>
+               </l>
+               <l>
+                  <hi>You talk,</hi> (ſays he,) <hi>I mean you hope</hi>
+               </l>
+               <l>
+                  <hi>That</hi> Ireland <hi>will this</hi> Summer <hi>be reduc'd;</hi>
+               </l>
+               <l>
+                  <hi>You may as well ſuppoſe</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Bay <hi>of</hi> Biſcay <hi>will be froze;</hi>
+               </l>
+               <l>
+                  <hi>No, no, with</hi> Stories <hi>you're amus'd,</hi>
+               </l>
+               <l>
+                  <hi>K.</hi> J—<hi>'s in Men and Money's not ſo poor,</hi>
+               </l>
+               <l>
+                  <hi>And I pronounce him Son of</hi> 'Whore,</l>
+               <l>
+                  <hi>VVho wiſhes</hi> Him <hi>or's</hi> Army <hi>were confus'd.</hi>
+               </l>
+               <l>This made the Company to ſtare:</l>
+               <l>At laſt one takes him up with—<hi>Sir, I dare,</hi>
+               </l>
+               <l>
+                  <hi>Though not to's</hi> Perſon, <hi>yet to's</hi> Cauſe</l>
+               <l>
+                  <hi>VViſh</hi> ruin; <hi>and if any here</hi>
+               </l>
+               <l>
+                  <hi>Do not the ſelf-ſame thing aver,</hi>
+               </l>
+               <l>
+                  <hi>He is without much Complement an</hi> Aſs.</l>
+               <l>
+                  <hi>An</hi> Aſs, <hi>Sir,</hi> (cries the other,) <hi>Faith, I don't</hi>
+               </l>
+               <l>
+                  <hi>Much uſe to pocket up ſuch an Affront;</hi>
+               </l>
+               <l>
+                  <hi>You wear no Sword, I ſee, and 'twould be baſe</hi>
+               </l>
+               <l>
+                  <hi>To draw upon a</hi> naked Man,</l>
+               <l>
+                  <hi>But here's my Diſh of</hi> Coffee <hi>in your Face.</hi>
+               </l>
+               <l>T'other, though ſcalded, would not be</l>
+               <l>Behind-hand with him in Civility,</l>
+               <l>But flung a Glaſs of <hi>Mum</hi> ſo pat,</l>
+               <l>It ſpoil'd both <hi>Perriwig</hi> and Point <hi>Cravat:</hi>
+               </l>
+               <pb n="24" facs="tcp:43860:14"/>
+               <l>On this a Quarrel ſoon began,</l>
+               <l>Till <hi>Conſtable</hi> with pacifying Staff,</l>
+               <l>Appeas'd the Fray, and the <hi>Contenders</hi> have</l>
+               <l>Some reſpite, one his <hi>Face</hi> to cure,</l>
+               <l>And t'other to refreſh his <hi>Garniture.</hi>
+               </l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>The lately mention'd Sparks are hardly gone,</l>
+               <l>But out of Breath more Hawkers run,</l>
+               <l>With the good News of the intire defeat,</l>
+               <l>Perform'd by th' Arms and Conduct of the Great</l>
+               <l>Illuſtrious <hi>William</hi> at the Famous <hi>Boyne,</hi>
+               </l>
+               <l>Where he like <hi>Caeſar</hi> croſt the Rubicon.</l>
+               <l>The trembling Iriſh ran away like Hares,</l>
+               <l>And none to look behind him dares;</l>
+               <l>It might in every Face be read,</l>
+               <l>How each ones Heart affected ſtood;</l>
+               <l>And tho' Diſtinction's Politick I hate,</l>
+               <l>Yet by the Chearfulneſs which ſate,</l>
+               <l>Upon the Brow of one while t'other ſhew'd,</l>
+               <l>A forc'd Complacence, nay, perhaps a Smile,</l>
+               <l>At reading of the News it was not hard,</l>
+               <l>To gueſs whoſe Intereſt was lov'd and fear'd.</l>
+            </lg>
+            <lg n="20">
+               <head>XX.</head>
+               <l>Mean while the Tax Collectors enter in,</l>
+               <l>Demanding Money for the King,</l>
+               <l>At ſight of which one who began to grin,</l>
+               <l>Did thus his moſt judicious Cenſures fling.</l>
+               <pb n="25" facs="tcp:43860:14"/>
+               <l>Cries on, <hi>I think the</hi> Parliament <hi>are mad</hi>
+               </l>
+               <l>
+                  <hi>To tax us thus; we ſhall e'er long</hi>
+               </l>
+               <l>
+                  <hi>Not know to whom our</hi> Souls <hi>belong;</hi>
+               </l>
+               <l>
+                  <hi>Nay 'tis reported they prepare</hi>
+               </l>
+               <l>
+                  <hi>A Bill to regulate our Fare:</hi>
+               </l>
+               <l>
+                  <hi>And none without accuſtom'd Fees</hi>
+               </l>
+               <l>
+                  <hi>Shall eat of Licens'd</hi> Bread <hi>and</hi> Cheeſe;</l>
+               <l>
+                  <hi>For</hi>—</l>
+               <l>—<hi>Hold, Sir, cries another Man,</hi>
+               </l>
+               <l>
+                  <hi>E'er farther in your</hi> Nonſenſe <hi>you go on;</hi>
+               </l>
+               <l>
+                  <hi>What to the</hi> Taxes <hi>have you paid,</hi>
+               </l>
+               <l>
+                  <hi>Or given to the</hi> Royal Aid?</l>
+               <l>
+                  <hi>If I mistake not, you're no more</hi>
+               </l>
+               <l>
+                  <hi>Than Journeyman t'a</hi> Shoe-maker,</l>
+               <l>
+                  <hi>And yet your Little Worſhip muſt complain,</hi>
+               </l>
+               <l>
+                  <hi>But 'twould, alas! be but in vain</hi>
+               </l>
+               <l>
+                  <hi>To preach Senſe to thy cloudy Brain;</hi>
+               </l>
+               <l>
+                  <hi>Or elſe, 't might be evinc'd that none</hi>
+               </l>
+               <l>
+                  <hi>In</hi> Europe<hi>'s large Dominions are ſo free</hi>
+               </l>
+               <l>
+                  <hi>From griping</hi> Taxes <hi>of the Purſe as we;</hi>
+               </l>
+               <l>
+                  <hi>Beſides, what in that Nature's done,</hi>
+               </l>
+               <l>
+                  <hi>Is the effect of meer Neceſſity,</hi>
+               </l>
+               <l>
+                  <hi>Shall th'</hi> King <hi>his Perſon for our ſakes expoſe,</hi>
+               </l>
+               <l>
+                  <hi>And we our little Aids refuſe?</hi>
+               </l>
+               <l>
+                  <hi>They're worſe than</hi> Infidels <hi>and</hi> Jews,</l>
+               <l>
+                  <hi>Who out of Complaiſance to Purſe,</hi>
+               </l>
+               <l>
+                  <hi>Their future Happineſs will loſe,</hi>
+               </l>
+               <l>
+                  <hi>And on</hi> Poſterity <hi>entail a Curſe.</hi>
+               </l>
+            </lg>
+            <lg n="21">
+               <pb n="26" facs="tcp:43860:15"/>
+               <head>XXI.</head>
+               <l>Quite out of Breath comes bouncing to the Room</l>
+               <l>A Spark, as if for Mid wife ſent,</l>
+               <l>Bawling aloud—<hi>His Majeſty is come;</hi>
+               </l>
+               <l>
+                  <hi>The King our Royal Master is at home:</hi>
+               </l>
+               <l>
+                  <hi>Shall we not drink his health to night,</hi>
+               </l>
+               <l>
+                  <hi>Tho' ſome may pledge it out of ſpight;</hi>
+               </l>
+               <l>
+                  <hi>E'gad I care not,—You Rogue, Sirrah, Boy,</hi>
+               </l>
+               <l>
+                  <hi>Fetch me a Double Mug of Potent Beer</hi>
+               </l>
+               <l>
+                  <hi>To make my <g ref="char:V">Ʋ</g>nderstanding clear,</hi>
+               </l>
+               <l>
+                  <hi>Or I ſhall elſe be drunk with Joy?</hi>
+               </l>
+               <l>
+                  <hi>Are you all ready?—Gentlemen preſent,</hi>
+               </l>
+               <l>
+                  <hi>Come here's the Brave King</hi> William<hi>'s Health,</hi>
+               </l>
+               <l>
+                  <hi>A Thing I wiſh above all Earthly Wealth,</hi>
+               </l>
+               <l>
+                  <hi>All at one pull on rep—ſo—Boy, another;</hi>
+               </l>
+               <l>
+                  <hi>This Mug has got a younger Brother.</hi>
+               </l>
+               <l>
+                  <hi>We muſt not ſure forget the Queen,</hi>
+               </l>
+               <l>
+                  <hi>No, no, my Lads, that were a Mortal Sin;</hi>
+               </l>
+               <l>
+                  <hi>Nor muſt the Prince and Princeſs be forgot,</hi>
+               </l>
+               <l>
+                  <hi>Boy, bring each man Mugs half a Dozen,</hi>
+               </l>
+               <l>
+                  <hi>I'll no Man of his Liquor Cozen.</hi>
+               </l>
+               <l>
+                  <hi>Now healths to the Nobility,</hi>
+               </l>
+               <l>
+                  <hi>E'gad I'll drink while I can ſee,</hi>
+               </l>
+               <l>
+                  <hi>You Zarrah—Boy</hi>—but now the Sot</l>
+               <l>With frequent Healths ſo drunk was got,</l>
+               <l>That leaving of the Publick Room,</l>
+               <l>Went very Loyal, very Tipſie home.</l>
+            </lg>
+            <lg n="22">
+               <pb n="27" facs="tcp:43860:15"/>
+               <head>XXII.</head>
+               <l>The Company he left behind,</l>
+               <l>Wanted not twenty of the Game,</l>
+               <l>Some Loyalty, and ſome Beer inflame;</l>
+               <l>Nor were they always in a Mind:</l>
+               <l>One drank the King's Health, but without a Name.</l>
+               <l>Which his next Neighbour could not bear;</l>
+               <l>Sir, you're a <hi>Jacobite</hi> I fear;</l>
+               <l>And were I ſure to find one here</l>
+               <l>To ſhew how much I could be Civil,</l>
+               <l>I'd kick him headlong to the Devil.</l>
+               <l>A Mighty <hi>Hero</hi> (cries the t'other)</l>
+               <l>You're ſurely <hi>Garagantua</hi>'s Brother,</l>
+               <l>Your Valour, or I miſs my part,</l>
+               <l>Lies in your Tongue more than your heart.</l>
+               <l>You Scoundrel don't provoke me more,</l>
+               <l>For if you do, you Son of a Whore,</l>
+               <l>I'll make my Mug which now's ſo full,</l>
+               <l>Acquainted with thy Paper Skull;</l>
+               <l>This Language t'other could not bear,</l>
+               <l>But gives him a round box o'th' Ear;</l>
+               <l>That was with Intereſt paid agen:</l>
+               <l>Thus both provok'd and ſoundly vext,</l>
+               <l>Mugs, Diſhes, or what e'er comes next,</l>
+               <l>Serv'd 'em wherewith to vent their Spleen,</l>
+               <l>But more than's us'd by Men of Worth;</l>
+               <l>Each had his ſecond, third, and fourth,</l>
+               <l>And to't they fall with fighting Fury,</l>
+               <l>As if they'd been at paſs of <hi>Newry,</hi>
+               </l>
+               <pb n="28" facs="tcp:43860:16"/>
+               <l>But parted, each to ſhew his ſpight,</l>
+               <l>Curſes, inſtead of ſaying,—Good Night.</l>
+            </lg>
+            <lg n="23">
+               <head>XXIII.</head>
+               <l>I having ſeen this furious Quarrel,</l>
+               <l>But too much influenc'd by the Barrel;</l>
+               <l>Thought that this vaſt Exceſs of Joy,</l>
+               <l>Did even the Soul of Loyalty deſtroy:</l>
+               <l>That Vertue lies not in an idle Vain,</l>
+               <l>Of drinking till my Reaſon ſtands</l>
+               <l>A Tiptoe in my Brain,</l>
+               <l>When ſo I may obey ſome raſh Commands.</l>
+               <l>But calm and quiet always in the Breaſt,</l>
+               <l>Wherein true Loyalty does reſt.</l>
+               <l>And ſure we muſt it madneſs call,</l>
+               <l>Whilſt in ſome Tavern of the Town,</l>
+               <l>Proſtrate upon our Knees we'll fall,</l>
+               <l>And drinking others Healths to loſe our own.</l>
+            </lg>
+            <lg n="24">
+               <head>XXIV.</head>
+               <l>More various Scenes of Humour I might tell,</l>
+               <l>Which in my little ſtay befel;</l>
+               <l>Such as grave <hi>Citts,</hi> who ſpending Farthings four,</l>
+               <l>Sit, ſmoke, and warm themſelves an hour,</l>
+               <l>Of modiſh Town-ſparks, drinking <hi>Chocolate,</hi>
+               </l>
+               <l>With <hi>Bevir</hi> cockt, and laughing loud,</l>
+               <l>To be thought Wits amongſt the Crow'd,</l>
+               <l>Or ſipping <hi>Tea,</hi> while they relate</l>
+               <pb n="29" facs="tcp:43860:16"/>
+               <l>Their Ev'ning's Frolick at the <hi>Roſe.</hi>
+               </l>
+               <l>But now I think 'tis time to cloſe,</l>
+               <l>Leſt to my <hi>Reader</hi> I ſhould give offence,</l>
+               <l>And he be tir'd with mine,</l>
+               <l>As I was with their dull <hi>Impertinence.</hi>
+               </l>
+               <l>My Reck'ning paid, I left the Room,</l>
+               <l>And in my paſſage Home,</l>
+               <l>Reflected thus—Is this the much deſir'd</l>
+               <l>Bleſſing of Life, which moſt unjuſtly we</l>
+               <l>Call <hi>Regular Society?</hi>
+               </l>
+               <l>Well, to my Cloſet I'll repair,</l>
+               <l>Paſt Times with preſent to compare,</l>
+               <l>My ſelf to ſtricteſt Study I'll condemn,</l>
+               <l>And 'mongſt ſome Authours wiſe and good,</l>
+               <l>Who Mankind beſt have underſtood,</l>
+               <l>My Weeks, Months, Years, endeavour to redeem.</l>
+               <l>Which vainly fooliſh, and unthinking I</l>
+               <l>Have ſpent in what we falſely call <hi>Good Company.</hi>
+               </l>
+            </lg>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:43860:17"/>
+            <head>Books lately Printed and Sold, at the <hi>Ship</hi> in St. <hi>Paul</hi>'s Church-Yard.</head>
+            <p>
+               <hi>PLutarch</hi>'s Morals, Tranſlated from the Greek by ſeveral Hands, in <hi>8vo.</hi> 5. Vol.</p>
+            <p>The Female Advocate, or an Anſwer to a late Satyr againſt the Pride, Luſt, and Inconſtancy of Women, in <hi>4to.</hi>
+            </p>
+            <p>Moral Eſſays and Diſcourſes upon ſeveral Subjects, chiefly relating to the Preſent Times. By a Perſon of Honour, <hi>8vo.</hi>
+            </p>
+            <p>A New Method of Curing the French Pox, written by an Eminent French Author; Together with the Practice and Method of Mon<g ref="char:EOLhyphen"/>ſieur <hi>Blanchard,</hi> as alſo, Dr. <hi>Sydenham</hi>'s Judgment on the ſame: To which is added Annotations and Obſervations, by <hi>William Salmon</hi> Profeſſor of Phyſick, in <hi>12ves.</hi>
+            </p>
+            <p>The Memoirs of Monſieur <hi>Deageant,</hi> containing the moſt ſecret Tranſactions and Affairs of <hi>France,</hi> from the Death of <hi>Henry</hi> IV, till the beginning of the Miniſtry of the Cardinal <hi>de Richelieu,</hi> to which is added a particular Relation of the Archbiſhop of <hi>Enbrun</hi>'s Voyage into <hi>England,</hi> and of his Negociation for the Advancement of the Roman Catholick Religion here, together with the Duke of <hi>Buckingham</hi>'s Letters to the ſaid Archbiſhop about the Progreſs of that Affair, which happened the laſt Year of King <hi>James</hi> I. His Reign. Faithfully Tranſlated out of the French Original, in <hi>12ves.</hi>
+            </p>
+            <p>A New and Eaſie Method to the Art of Dialling, containing 1. All Horizontal Dials, all Upright Dials, Reflecting Dials, Dials without Centre, Nocturnal Dials, upright Declining Dials, without knowing the Declination of the Place. 2. The moſt natural and eaſie Way of deſcribing the Curious Lines of the Sun's Declination on any Place, by <hi>Thomas Strode</hi> 
+               <abbr>Eſq</abbr> in <hi>4to.</hi>
+            </p>
+            <pb facs="tcp:43860:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
